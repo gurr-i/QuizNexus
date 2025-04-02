@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "questionText": "What is India officially known as according to Article 1?",
+      "options": ["Bharat", "India", "India, that is Bharat", "Republic of India"],
+      "correctAnswer": "India, that is Bharat",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "According to Article 2, who has the power to admit new states into the Union of India?",
+      "options": ["The President", "The Parliament", "The Supreme Court", "The State Assembly"],
+      "correctAnswer": "The Parliament",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Under Article 3, what is required before introducing a bill for formation of new states?",
+      "options": ["Supreme Court's approval", "President's recommendation", "State Assembly's consent", "Public referendum"],
+      "correctAnswer": "President's recommendation",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Which Article defines citizenship at the commencement of the Constitution?",
+      "options": ["Article 5", "Article 6", "Article 7", "Article 8"],
+      "correctAnswer": "Article 5",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "According to Article 14, what does the Constitution guarantee to all persons?",
+      "options": ["Right to freedom", "Right to equality before law", "Right to property", "Right to religion"],
+      "correctAnswer": "Right to equality before law",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "Which Article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "correctAnswer": "Article 15",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "Article 17 abolishes what social practice?",
+      "options": ["Untouchability", "Child labor", "Forced labor", "Gender discrimination"],
+      "correctAnswer": "Untouchability",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "Under Article 19, how many fundamental freedoms are guaranteed to Indian citizens?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "correctAnswer": "Six",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Which Article provides protection against arbitrary arrest and detention?",
+      "options": ["Article 20", "Article 21", "Article 22", "Article 23"],
+      "correctAnswer": "Article 22",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Article 21A deals with which fundamental right?",
+      "options": ["Right to equality", "Right to education", "Right to freedom", "Right to religion"],
+      "correctAnswer": "Right to education",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "Which Article prohibits traffic in human beings and forced labor?",
+      "options": ["Article 23", "Article 24", "Article 25", "Article 26"],
+      "correctAnswer": "Article 23",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Under Article 25, what fundamental right is guaranteed?",
+      "options": ["Right to property", "Right to freedom of religion", "Right to education", "Right to equality"],
+      "correctAnswer": "Right to freedom of religion",
+      "category": "constitution",
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "Article 32 is known as the 'heart and soul' of the Constitution according to whom?",
+      "options": ["Jawaharlal Nehru", "B.R. Ambedkar", "Rajendra Prasad", "Sardar Patel"],
+      "correctAnswer": "B.R. Ambedkar",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Which Article deals with the directive principles of state policy?",
+      "options": ["Article 36", "Article 37", "Article 38", "Article 39"],
+      "correctAnswer": "Article 37",
+      "category": "constitution",
+      "difficulty": "medium"
+    },
+    {
+      "questionText": "Under Article 40, what is the state required to organize?",
+      "options": ["Village courts", "Village panchayats", "Village schools", "Village hospitals"],
+      "correctAnswer": "Village panchayats",
+      "category": "constitution",
+      "difficulty": "easy"
+    }
+  ]
+}
